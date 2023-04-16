@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start` or by github pages 
 
-####open [github pages](https://ayfan1.github.io/gerich-restaurant-react-ui-ux/)
+#### open [github pages](https://ayfan1.github.io/gerich-restaurant-react-ui-ux/)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
